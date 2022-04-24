@@ -18,8 +18,9 @@ body {
 
 .screen {
     text-align: right;
-    padding: 100px 30px 30px 0px;
-    border: 1px dashed rgba(104, 104, 104, 0.226);
+    padding: 90px 30px 25px 0px;
+    border: 1px solid rgba(104, 104, 104, 0.226);
+    font-size: 45px;
 }
 
 .buttons {
